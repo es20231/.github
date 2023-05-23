@@ -11,11 +11,11 @@ Board da Equipe 3 - https://github.com/orgs/es20231/projects/4/views/1
 
 Board da Equipe 4 - https://github.com/orgs/es20231/projects/5/views/1
 
-Board da Equipe 5 - https://github.com/orgs/es20231/projects/6/views/1
+Board da Equipe 5 - https://github.com/orgs/es20231/projects/7/views/1
 
-Board da Equipe 6 - https://github.com/orgs/es20231/projects/7/views/1
+Board da Equipe 6 - https://github.com/orgs/es20231/projects/8/views/1
 
-Board da Equipe 8 - https://github.com/orgs/es20231/projects/8/views/1
+Board da Equipe 8 - https://github.com/orgs/es20231/projects/9/views/1
 
 
 # Repositórios do Projetos
